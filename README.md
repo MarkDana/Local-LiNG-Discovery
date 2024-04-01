@@ -1,8 +1,8 @@
 # Local Causal Discovery with Linear non-Gaussian Cyclic Models
 
-[Paper](https://arxiv.org/abs/2403.14843) by [Haoyue Dai](https://hyda.cc)\*, [Ignavier Ng](https://ignavierng.github.io/)\*, [Yujia Zheng](https://yjzheng.com/), [Zhengqing Gao](https://hit-chris.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html).
+[Paper](https://arxiv.org/abs/2403.14843) by [Haoyue Dai](https://hyda.cc)\*, [Ignavier Ng](https://ignavierng.github.io/)\*, [Yujia Zheng](https://yjzheng.com/), [Zhengqing Gao](https://hit-chris.github.io/), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). Appears at AISTATS 2024.
 
-*The first to tackle local causal discovery in cyclic models. By independent subspace analysis, all the local causal structures and coefficients in the equivalence class are identified (intersecting cycles are aslo allowed). A regression-based variant is given for acyclic cases. Appears at AISTATS 2024.*
+*The first to tackle local causal discovery in cyclic models. By independent subspace analysis, all the local causal structures and coefficients in the equivalence class are identified (intersecting cycles are aslo allowed). A regression-based variant is given for acyclic cases.*
 
 ---
 
