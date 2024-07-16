@@ -4,11 +4,24 @@
 
 *The first to tackle local causal discovery in cyclic models. By independent subspace analysis, all the local causal structures and coefficients in the equivalence class are identified (intersecting cycles are aslo allowed). A regression-based variant is given for acyclic cases.*
 
----
 
-> Codes will be ready soon..
 
----
+## Running the Methods
+- To run the method for acyclic case:
+```
+python acyclic_example.py
+```
+
+- To run the method for cyclic case:
+```
+python cyclic_example.py
+```
+
+## Acknowledgments
+- The code to generate the synthetic DAGs and compute the graph metrics (e.g., SHD, TPR) is based on [NOTEARS](https://github.com/xunzheng/notears).
+- The code to generate the synthetic cyclic graphs and data is based on [dglearn](https://github.com/syanga/dglearn).
+
+
 
 ## Citation
 

@@ -1,0 +1,8 @@
+numpy
+scipy
+scikit-learn
+networkx
+python-igraph
+causaldag
+causal-learn
+numba
